@@ -9,9 +9,9 @@ Result of the Selected researchers and their paper displayed on the website.
 
 # Software Requirements
 
-  Runtime Environment:ASP.NET 4.0
-  Visual Studio 2010
-  SQL Server 2008
-  Internet Explorer 7.0, Mozilla Firefox, Chrome
+  1.Runtime Environment:ASP.NET 4.0
+  2.Visual Studio 2010
+  3.SQL Server 2008
+  4.Internet Explorer 7.0, Mozilla Firefox, Chrome
 
 
