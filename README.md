@@ -7,9 +7,6 @@ At the backend side admin can add/update/Delete the data of authorized user, vie
 Reviewer can review paper and assign marks according the criteria decided by the conference.
 Result of the Selected researchers and their paper displayed on the website.
 
-!["Screenshot of chatty-app"](
-https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/Screen%20Shot%202018-10-13%20at%202.54.58%20PM.png?raw=true)
-
 # Software Requirements
 
   1. Runtime Environment:ASP.NET 4.0
