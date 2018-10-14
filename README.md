@@ -9,31 +9,32 @@ Result of the Selected researchers and their paper displayed on the website.
 
 ## Final Product
 Home page
-!["Screenshot of OCMS-app"]
+!["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/homepage.png?raw=true)
 
 Registeration Page
-!["Screenshot of OCMS-app"]
+!["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/register.png?raw=true)
 
 Author Account Page
-!["Screenshot of OCMS-app"]
+!["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/upload-paper.png?raw=true)
 
 Admin-View All Papers
-!["Screenshot of OCMS-app"]
+!["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/reviewer-view.png?raw=true)
 
 Add Reviewer Page by Admin
-!["Screenshot of OCMS-app"]
+!["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/admin-add-reviewer.png?raw=true)
+
 
 Send Mail to Reviewer Page
-!["Screenshot of OCMS-app"]
+!["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/mail_to-reviewer.png?raw=true)
 
 Reviewer Receive Mail and Paper
-!["Screenshot of OCMS-app"]
+!["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/reviewer_receive_papermail.png?raw=true)
 
 Send mail to Author(Selection of Paper)
-!["Screenshot of OCMS-app"]
+!["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/mail_to_author.png?raw=true)
 
 Conference Detail Page
-!["Screenshot of OCMS-app"]
+!["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/conference-detail.png?raw=true)
 
 # Software Requirements
 
