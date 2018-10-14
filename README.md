@@ -7,6 +7,34 @@ At the backend side admin can add/update/Delete the data of authorized user, vie
 Reviewer can review paper and assign marks according the criteria decided by the conference.
 Result of the Selected researchers and their paper displayed on the website.
 
+## Final Product
+Home page
+!["Screenshot of OCMS-app"]
+
+Registeration Page
+!["Screenshot of OCMS-app"]
+
+Author Account Page
+!["Screenshot of OCMS-app"]
+
+Admin-View All Papers
+!["Screenshot of OCMS-app"]
+
+Add Reviewer Page by Admin
+!["Screenshot of OCMS-app"]
+
+Send Mail to Reviewer Page
+!["Screenshot of OCMS-app"]
+
+Reviewer Receive Mail and Paper
+!["Screenshot of OCMS-app"]
+
+Send mail to Author(Selection of Paper)
+!["Screenshot of OCMS-app"]
+
+Conference Detail Page
+!["Screenshot of OCMS-app"]
+
 # Software Requirements
 
   1. Runtime Environment:ASP.NET 4.0
