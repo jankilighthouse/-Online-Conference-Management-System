@@ -11,7 +11,7 @@ Result of the Selected researchers and their paper displayed on the website.
 Home page
 !["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/homepage.png?raw=true)
 
-Registeration Page
+Registration Page
 !["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/register.png?raw=true)
 
 Author Account Page
@@ -22,7 +22,6 @@ Admin-View All Papers
 
 Add Reviewer Page by Admin
 !["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/admin-add-reviewer.png?raw=true)
-
 
 Send Mail to Reviewer Page
 !["Screenshot of OCMS-app"](https://github.com/jankilighthouse/Online-Conference-Management-System/blob/master/docs/mail_to-reviewer.png?raw=true)
